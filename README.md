@@ -9,6 +9,6 @@
 - Compatible with all mobile devices and has a nice user interface.
 
 
-![preview img](/Responsive-Starbucks-Website.png)
+![preview img](/Responsive-Starbucks-Website .png)
 
 
