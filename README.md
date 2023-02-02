@@ -2,11 +2,13 @@
 
 ##reynisterro77.github.io/melihkara.github.io/
 
-- HTML CSS ve JavaScript Kullanarak Duyarlı Starbucks
-- Her bölümde yumuşak kaydırma.
-- Açık ve koyu mod içerir.
-- Mobile First metodolojisi ile geliştirildi, ardından masaüstü için geliştirildi.
-- Tüm mobil cihazlarla uyumludur ve hoş bir kullanıcı arayüzüne sahiptir.
+- Responsive Starbucks Using HTML CSS and JavaScript
+- Smooth scrolling in each section.
+- Includes light and dark mode.
+- Developed with Mobile First methodology, then developed for desktop.
+- Compatible with all mobile devices and has a nice user interface.
 
 
-![önizleme img](/Responsive-Starbucks-Website .png)
+![preview img](/Responsive-Starbucks-Website .png)
+
+
